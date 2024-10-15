@@ -1,0 +1,5 @@
+paramiko
+asyncio
+asyncpg
+python-dotenv
+python-telegram-bot==21.6
